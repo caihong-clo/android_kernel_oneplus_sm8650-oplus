@@ -1,4 +1,3 @@
-../vendor/oplus/hardware/radio/kernel/mdmfeature:kbuild
 ../vendor/oplus/kernel/cpu/thermal:kbuild
 ../vendor/oplus/kernel/device_info/pogo_keyboard:kbuild
 ../vendor/oplus/kernel/device_info/tri_state_key:kbuild
